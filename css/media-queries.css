@@ -1,0 +1,11 @@
+@media only screen and (max-width: 1024px) {
+	.conteiner{
+		background-color: red;
+		padding: 100px 0px;
+	}
+}
+
+@media only screen and (max-width: 1024px) {
+}
+@media only screen and (max-width: 375px) {
+}
